@@ -7,7 +7,7 @@ as a LISP1 Lisp.
 Written and placed in the public domain by:
 
         Blake McBride
-        blake@mcbride.name
+        blake@mcbridemail.com
 
 ================================================================================
 
@@ -204,6 +204,6 @@ correct.
 Please feel free with questions, comments, and improvements.
 
 Blake McBride
-blake@mcbride.name
+blake@mcbridemail.com
 
 EOF

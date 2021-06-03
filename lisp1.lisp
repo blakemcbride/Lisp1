@@ -6,7 +6,7 @@
 ;  
 ;  Written by:
 ;  	Blake McBride
-;  	blake@mcbride.name
+;  	blake@mcbridemail.com
 ;  
 ;  
 ;  
